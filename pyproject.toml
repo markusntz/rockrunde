@@ -2,7 +2,7 @@
 name = "rockrunde"
 version = "0.1.0"
 description = ""
-authors = ["Markus Nutz <markus.nutz@metro-markets.de>"]
+authors = ["Markus Nutz <markus.nutz@gmx.de>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
